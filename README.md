@@ -1,4 +1,4 @@
-![Repo Image](https://github.com/lalantham/web-server-linux/blob/master/img.png)
+![Repo Image](https://github.com/lalantham/install-wordpress/blob/master/img.jpg)
 # Install Wordpress In Linux (Ubuntu)
 
 >Complete Guild for install wordpress in linux 
